@@ -181,3 +181,15 @@ body {
 .media-section i:hover{
   color: var(--primary-color);
 }
+
+/* Footer Scction */
+.footer-section {
+
+  background-color: var(--primary-color);
+  padding: 10px 0;
+}
+.footer-section p {
+  margin: 0;
+  text-align: center;
+  color: #ffffff;
+}
