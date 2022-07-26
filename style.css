@@ -1,0 +1,44 @@
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #ffffff;
+}
+
+:root {
+  --primary-color: #00539cff;
+  --secondary-color: #8aaae5;
+  --primary-font: "Poppins", sans-serif;
+  --text-color: #1f1f1f;
+}
+
+/* Scrollbar Color Change */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--primary-color);
+}
+
+/* NavBar section */
+.navbar-section {
+  background-color: #ffffff;
+}
+.navbar-brand img {
+  height: 40px;
+}
+.nav-link {
+  font-weight: bold;
+  font-family: var(--primary-font);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0 20px;
+  color: var(--primary-color) !important;
+}
+.nav-link:hover {
+  color: var(--secondary-color) !important;
+}
+.fa-bars {
+  color: var(--primary-color);
+}
