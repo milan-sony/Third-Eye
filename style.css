@@ -193,3 +193,10 @@ body {
   text-align: center;
   color: #ffffff;
 }
+
+/* Custom Media Query */
+@media (max-width: 425px) {
+  .address-box {
+    padding-top: 10px;
+  }
+}
