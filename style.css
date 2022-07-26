@@ -171,3 +171,13 @@ body {
   color: var(--primary-color);
   padding-left: 1px;
 }
+
+/* Media Section */
+.media-section i{
+  color: var(--text-color);
+  font-size: 25px;
+  padding: 80px 20px;
+}
+.media-section i:hover{
+  color: var(--primary-color);
+}
