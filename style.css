@@ -127,3 +127,47 @@ body {
   color: var(--text-color);
   font-family: var(--primary-font);
 }
+
+/* Contact Section */
+.contact-section {
+  padding-top: 80px;
+}
+.contact-section h3 {
+  margin: 0;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--primary-color);
+  font-family: var(--primary-font);
+  padding-bottom: 30px;
+}
+.form-group button {
+  margin: 0;
+  background-color: var(--primary-color);
+  color: #ffffff;
+  font-family: var(--primary-font);
+  text-transform: uppercase;
+  padding: 5px 15px;
+}
+.form-group .btn:hover {
+  background-color: var(--secondary-color);
+}
+.address-box p {
+  margin: 0;
+  text-decoration: none;
+  list-style-type: none;
+  padding-top: 6px;
+  font-weight: 500;
+  color: var(--text-color);
+  font-family: var(--primary-font);
+}
+.address-box a {
+  text-decoration: none;
+  list-style-type: none;
+  color: var(--text-color);
+}
+.address-box a:hover {
+  color: var(--primary-color);
+  padding-left: 1px;
+}
