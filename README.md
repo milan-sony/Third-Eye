@@ -1,1 +1,1 @@
-A Simple Photography Webdesign Using HTMl, CSS and Bootstrap
+A Simple Photography Web design Using HTMl, CSS and Bootstrap
