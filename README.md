@@ -1,3 +1,5 @@
-A Simple Photography Web design Using HTMl, CSS and Bootstrap
+# Third Eye
 
-Live Link : https://milan-sony.github.io/third_eye/
+A simple, responsive photograpy website
+
+[Live link](https://milan-sony.github.io/third_eye/)
